@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Gillette23
-- 👀 I’m interested in music, IT and programming (but im a beginner)
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in music and IT
 - 📫 How to reach me: if possible, contact me on github :)
 
 <!---
