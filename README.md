@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gillette23
+- 👋 Hi, I’m @gilStettler
 - 👀 I’m interested in music and IT
 - 📫 How to reach me: if possible, contact me on github :)
 
