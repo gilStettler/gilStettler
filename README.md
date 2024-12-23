@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify Badge" />
 </a> </p>
 </div>  
+
 - 🔭 I’m currently working on **different school projects**
 
 - 🌱 I’m currently studying **Business IT / Digital Business & AI at BFH**
