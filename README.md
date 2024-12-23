@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Gil</h1>
 <h3 align="center">A nerd from Switzerland who likes to learn new things, play games, read and make music.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gilstettler&label=Profile%20views&color=0e75b6&style=flat" alt="gilstettler" /> </p>
-
+<div align="center"<
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=gilstettler&label=Profile%20views&color=0e75b6&style=flat" alt="gilstettler" />
+  <a href="https://steamcommunity.com/profiles/76561198132455054">
+    <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge" />
+</a>
+<a href="https://open.spotify.com/playlist/7gdqdPXjzGo0CMFafgV5RT?si=kV2mHp6fSdiUMjEjYaIkIg&pi=fLmciCrARX-iP">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify Badge" />
+</a> </p>
+</div>  
 - 🔭 I’m currently working on **different school projects**
 
 - 🌱 I’m currently studying **Business IT / Digital Business & AI at BFH**
 
-- ⚡ Fun fact **I play the drums and listen to metal music and wind music.**
+- ⚡ Fun fact: **I play the drums and listen to metal music and wind music.**
 
 ###
 
@@ -16,8 +22,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gilStettler&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
 ###
 <div align="left">
+  <h3 align="left">Languages and Tools:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -45,25 +53,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/gilStettler/gilStettler/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Gil Stettler">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Gil%20Stettler&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
